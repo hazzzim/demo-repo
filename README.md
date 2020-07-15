@@ -5,4 +5,4 @@ some description!
 
 ## Subheader
 
-watch tutorial on my channel
+watch tutorial on my channell
